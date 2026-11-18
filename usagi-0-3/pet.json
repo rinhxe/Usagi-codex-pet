@@ -1,7 +1,8 @@
 {
-  "id": "usagi",
-  "displayName": "Usagi",
+  "id": "usagi-0-3",
+  "displayName": "usagi 0.3",
   "description": "The mischievous, endlessly energetic Usagi from Chiikawa.",
   "spritesheetPath": "spritesheet.webp",
-  "kind": "creature"
+  "kind": "creature",
+  "spriteVersionNumber": 2
 }
