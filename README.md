@@ -2,7 +2,7 @@
 
 A fan-made animated desktop pet based on Usagi from *Chiikawa*. It includes nine Codex animation states, from idle and waving to working and reviewing.
 
-![Usagi standing, blinking, and jumping](preview.gif)
+![All nine Usagi animations, including snacking, typing, and reading](preview.gif)
 
 ## Install
 
